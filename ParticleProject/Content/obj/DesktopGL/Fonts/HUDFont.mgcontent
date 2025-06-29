@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/noaht/OneDrive/Computer Science/ICS4/Assignments/PASS2/ParticleProject/ParticleProject/Content/Fonts/HUDFont.spritefont</SourceFile>
+  <SourceTime>2023-10-16T19:54:42-04:00</SourceTime>
+  <DestFile>C:/Users/noaht/OneDrive/Computer Science/ICS4/Assignments/PASS2/ParticleProject/ParticleProject/bin/Debug/Content/Fonts/HUDFont.xnb</DestFile>
+  <DestTime>2023-10-27T00:03:16.9896471-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

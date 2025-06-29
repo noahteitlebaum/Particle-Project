@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Backgrounds/PausedBg.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Backgrounds/SpaceBackground.jpg</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/Asteroid.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/BlueBall.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/Box.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/Earth.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/Mars.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/MoonBrick.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/Saturn.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/Ship.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/Smoke.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/Smoke2.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/Spark.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/Star.png</File>
+    <File>C:/Users/User/Desktop/ParticleProject/ParticleProject/Content/Images/Sprites/Uranus.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
